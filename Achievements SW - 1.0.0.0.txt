@@ -1,0 +1,69 @@
+Achievements SW - 1.0.0.0
+
+Mother Nature
+"Venture the Natures Dynasty and defeat the Natureschomper."
+Reward: Bloomdoom Hairpiece (SL), Sprout Bloomdoom Costume (SW)
+
+Factorial
+"Travel to the Flipped Factory and defeat the Discambabular."
+Reward: Puddles Shadow (SL), 10 Dog-Tags (SW)
+
+Access to the Gates
+"Go to Anarchy Gates and take down the Smart Statue."
+Reward: Steel Statue Accessory (SL), 10 Dog-Tags (SW)
+
+FBI, Open Up!
+"Defeat that S.W.A.T Dragon roaming the Raid."
+Reward: Scales Costume (SL), 10 Dog-Tags (SW)
+
+Born to Rule
+"Assasinate President A.C.O.R.N in his own office!"
+Reward: Ice Cream Hat (SL), 10 Dog-Tags (SW)
+
+Modernisation
+"Complete and Seal of the Remains of the Modern Realm."
+Reward: 50 Dog-Tags (SW)
+
+Rookie Fashionista
+"Get 1 Costume, just 1."
+Reward: Top-Hat Hat (SL), 10 Dog-Tags (SW)
+
+Tecky With It
+"Get 1 Skill to Level 10."
+Reward: Clawed Backdrop (SL), 10 Dog-Tags (SW)
+
+Teckers
+"Get all Skills to Level 10."
+Reward: 100 Dog-Tags (SW)
+
+Shadow Wizard Money Clan (We love Casting Spells)
+"Ascend to Mastery One."
+Reward: 50 Dog-Tags (SW)
+
+Roman Numerals Stack
+"Get Mastery 1 to X Rank."
+Reward: 100 Dog-Tags (SW)
+
+Frankenstein
+"Do a Tier 1 Mutate to a Shiba."
+Reward: 20 Dog-Tags (SW)
+
+Monster
+"Do a Tier 2 Mutate to a Shiba."
+Reward: 50 Dog-Tags (SW)
+
+Beast
+"Do a Tier 3 Mutate to a Shiba."
+Reward: 100 Dog-Tags (SW)
+
+Gecko of the Lands
+"Use the Camoflague Power-Up."
+Reward: 25 Dog-Tags (SW)
+
+Phoenix
+"Use the Firearray Power-Up."
+Reward: 25 Dog-Tags (SW)
+
+Jester
+"Perdere regnum vile."
+Reward: 250,000 Dog-Tags (SW)

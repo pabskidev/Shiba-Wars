@@ -1,0 +1,210 @@
+Natures Dynasty - Modern Realm (1.0.0.0 Version)
+
+Natures Dynasty has 5 Levels
+
+| LVL NAMES |
+
+LVL 1
+Pathways
+
+LVL 2
+Stroll down the Lawn
+
+LVL 3
+Fruit Passion
+
+LVL 4
+A.C.O.R.N.S A.H.E.A.D
+
+LVL 5
+Stumped
+
+| LVL INFO |
+
+Pathways
+
+-- Obstacles
+- Tree Stumps
+- Trees
+- Rocks
+
+-- Enemies
+- Sharkys
+- Bloomdoom
+
+Stroll down the Lawn
+
+-- Obstacles
+- Tree Stumps
+- Trees
+- Rocks
+
+-- Enemies
+- Sharkys
+- Fishchomper
+- Bloomdoom
+
+Fruit Passion
+
+-- Obstacles
+- Explosive Apples
+- Boosting Bananas
+- Power Pears
+- Fruit Trees
+- Tree Stumps
+- Trees
+- Rocks
+
+-- Enemies
+- Sharkys
+- Fishchomper
+- Bloomdoom
+- Mushy
+- Shroomsporer
+
+A.C.O.R.N.S A.H.E.A.D
+
+-- Obstacles
+- Explosive Apples
+- Boosting Bananas
+- Power Pears
+- Fruit Trees
+- Tree Stumps
+- Trees
+- Rocks
+
+-- Enemies
+- Sharkys
+- Fishchomper
+- Bloomdoom
+- A.C.O.R.N
+- Mushy
+- Shroomsporer
+
+Stumped
+
+-- Obstacles
+- Explosive Apples
+- Boosting Bananas
+- Power Pears
+- Fruit Trees
+- Tree Stumps
+- Trees
+- Rocks
+
+-- Enemies
+- Sharkys
+- Fishchomper
+- Bloomdoom
+- A.C.O.R.N
+- Mushy
+- Shroomsporer
+- Natureschomper (BOSS)
+
+| FRUITS DETAILS |
+
+Fruit Trees chances 
+- 50% Explosive Apple
+- 25% Boosting Banana
+- 10% Power Pears
+- 5% Listed Below
+
+5% can be:
+2 Power Pears
+5 Boosting Bananas
+10 Explosive Apples
+
+EXPLOSIVE APPLE
+3x3 Tile Radius
+500 Damage
+Can be used on Shiba's and Enemies
+Lasts 1 Second
+
+BOOSTING BANANA
+1x1 Tile Radius
+50% Faster, 50% More Damage
+Can be used on Shiba's and Enemies
+Lasts 30 Seconds
+
+POWER PEAR
+1x1 Tile Radius
+250% More Damage, 250% Power-Move Damage
+Can be used on Shiba's and Enemies
+Lasts 1 Minute
+(Power-Moves aren't on Enemies)
+
+| REWARDS |
+
+Pathways
+Leafy Shiba
+
+Stroll down the Lawn
+1000 Shibbucks
+
+Fruit Passion
+Fruitstravaganza Shiba
+
+A.C.O.R.N.S A.H.E.A.D
+1000 Shibbucks
+
+Stumped
+25 Dog-Tags
+5000 Shibbucks
+Natures Dynasty Shiba
+
+| DIALOGUE |
+
+Pathways
+
+Shiba:
+Well here we are, at Natures Dynasty.
+
+Soldier Shiba:
+It truely is beautiful.
+
+Stroll down the Lawn
+
+Soldier Shiba:
+Congratulations on beating Pathways, be careful though. I heard that Bloomdooms are here!
+
+Soldier Shiba:
+You don't know what Bloomdooms are? They are Flowers that shoot EXPLODING PETALS!
+
+Shiba:
+Good luck, they exploded my ear!
+
+Fruit Passion
+
+Leafy Shiba:
+It appears that there is a lot of fruit trees on this level!
+
+Fruitstravaganza Shiba:
+Ah yes - the Apples explode, the Bananas boost, and the Pears.. I'll let you find out yourself!
+
+A.C.O.R.N.S A.H.E.A.D
+
+Sign:
+CAUTION: A.C.O.R.N.S AHEAD!
+
+Thorny Shiba:
+The Classic A.C.O.R.N.S, they are basically NUKES!
+
+Soldier Shiba:
+Can confirm, I ran some scans and, 101% Explosive... Good luck out there.
+
+Stumped
+
+Soldier Shiba:
+You are facing a mean one now! The Natureschomper is here - but do not fear... I will help you in this fight.
+
+Shiba:
+In what way could you help him more?
+
+Soldier Shiba:
+Ticket Boosts, they are FREE for just this round!
+
+Soldier Shiba:
+Don't overuse them, or your Unit Tower will BLOW! Executing all your Shiba's!
+
+Undercover Shiba:
+Goodluck!

@@ -1,0 +1,124 @@
+Armoury and Artillery (1.0.0.0)
+
+(Blades, Bows, Guns)
+> Tier I
+- Makeshift Blade
+- Wooden Blade
+- Makeshift Bow
+- Wooden Bow
+- Makeshift Rifle
+- Wooden Rifle
+
+> Tier II
+- Steel Blade
+- Golden Blade
+- Gembane
+- Bow of Steel
+- Bow of Gold
+- Gembow
+- Steel Sniper
+- Golden Sniper
+- Gem-SMG
+
+> Tier III
+- Diamond Blade
+- Radioactive Blade
+- Toxicbane
+- Blade of Regalness
+- Bow of Diamond
+- Bow of Radioactivity
+- Bow of Toxicity
+- Bow of Regalness
+- Diamond Shotgun
+- Radioactive Shotgun
+- Toxic Shotgun
+- Regal Sniper
+
+> TO BE ADDED (Tiers I, II, III)
+|> Tier I
+- Makeshift Trident
+- Makeshift Chain
+- Chainy
+- Makeshift Boomerang
+- Makeshift Fencing Saber
+- Makeshift Fencing Foil
+- Makeshift Fencing Épée
+
+|> Tier II
+- Steel Trident
+- Golden Trident
+- Chains of Iron/Steel
+- Boomerangutan
+- Iron Fencing Saber
+- Iron Fencing Foil
+- Iron Fencing Épée
+
+|> Tier III
+- Depths Trident
+- Summer Breeze Trident
+- Chains of Diamond
+- Prismatic Chain
+- Chain of the Gods
+- Boomeriddler
+- Sir. Rang
+- Boomerang of the Gods
+- Prismatic Fencing Saber
+- Prismatic Fencing Foil
+- Prismatic Fencing Épée
+- Fencing Saber of the Gods
+- Fencing Foil of the Gods
+- Fencing Épée of the Gods
+- Fencing Épéesaberfoil
+
+(Grenades)
+> Tier I
+- Makeshift Grenade
+
+> Tier II
+- Gemnade
+
+> Tier III
+- Regal Destruction Creator
+
+> TO BE ADDED (Tiers I, II, III)
+|> Tier I
+- Makeshift Bomb
+
+|> Tier II
+- Steelbomb
+- Strongbomb
+
+|> Tier III
+- Poison Bomb
+- MEGAB0MB
+
+(Souls, Enchants, Blessings)
+> Tier I
+- Blessing of Nature
+- Enchanting Natures Tome
+- Soul of Nature
+- Blessing of Stamina
+- Enchanting Factorial Tome
+- Soul of Efficiency
+
+> Tier II
+- Blessing of Defense
+- Enchanting Anarchy Tome
+- Soul of Stance
+- Blessing of Confidence
+- Enchanting Raid Tome
+- Soul of Strength
+
+> Tier III
+- Blessing of Riches
+- Enchanting Presidential Tome
+- Soul of Wealth
+
+> TO BE ADDED (Tiers I, II, III)
+|> Tier III
+- Blessing of Shade
+- Enchanting Sneak Tome
+- Soul of Stealth
+- Blessing of the Beach
+- Enchanting Summers Tome
+- Soul of Summer
